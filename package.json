@@ -101,7 +101,7 @@
     "watchify": "^3.9.0",
     "wdio-mocha-framework": "^0.5.11",
     "wdio-spec-reporter": "^0.1.2",
-    "webdriverio": "^4.1.1"
+    "webdriverio": "^9.5.7"
   },
   "bin": "./bin/youtransfer"
 }
